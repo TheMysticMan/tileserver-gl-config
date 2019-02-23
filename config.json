@@ -1,0 +1,38 @@
+{
+    "options": {
+      "paths": {
+        "root": "",
+        "fonts": "fonts",
+        "sprites": "sprites",
+        "styles": "styles",
+        "mbtiles": ""
+      },
+      "domains": [
+        "localhost:8080",
+        "127.0.0.1:8080"
+      ],
+      "formatQuality": {
+        "jpeg": 80,
+        "webp": 90
+      },
+      "maxScaleFactor": 3,
+      "maxSize": 2048,
+      "pbfAlias": "pbf",
+      "serveAllFonts": false,
+      "serveStaticMaps": true
+    },
+    "styles": {
+      "full": {
+        "style": "full-style.json",
+        "tilejson": {
+          "type": "overlay",
+          "bounds": [3.136597,50.729502,7.256470,53.657661]
+        }
+      }
+    },
+    "data": {
+      "nl-vector": {
+        "mbtiles": "tiles.mbtiles"
+      }
+    }
+  }
