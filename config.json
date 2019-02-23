@@ -9,7 +9,9 @@
       },
       "domains": [
         "localhost:8080",
-        "127.0.0.1:8080"
+        "127.0.0.1:8080",
+        "tileserver",
+        "maps.geo.edolimburg.nl"
       ],
       "formatQuality": {
         "jpeg": 80,
