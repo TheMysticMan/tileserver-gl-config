@@ -11,7 +11,7 @@
       }
     },
     "sprite": "http://maps.geo.edolimburg.nl/styles/full/sprite",
-    "glyphs": "https://maps.tilehosting.com/fonts/{fontstack}/{range}.pbf?key={key}",
+    "glyphs": "http://maps.geo.edolimburg.nl/fonts/{fontstack}/{range}.pbf?key={key}",
     "layers": [
       {
         "id": "background",
