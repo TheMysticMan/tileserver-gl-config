@@ -35,7 +35,7 @@
         }
       },
       "text-only": {
-        "style": "map-only/style.json",
+        "style": "text-only/style.json",
         "tilejson": {
           "type": "overlay",
           "bounds": [3.136597,50.729502,7.256470,53.657661]
@@ -47,7 +47,7 @@
         "mbtiles": "tiles.mbtiles"
       },
       "nl-text-only": {
-        "mbtiles": "tiles.mbtiles"
+        "mbtiles": "texttiles.mbtiles"
       }
     }
   }
