@@ -26,10 +26,27 @@
           "type": "overlay",
           "bounds": [3.136597,50.729502,7.256470,53.657661]
         }
+      },
+      "map-only": {
+        "style": "map-only/style.json",
+        "tilejson": {
+          "type": "overlay",
+          "bounds": [3.136597,50.729502,7.256470,53.657661]
+        }
+      },
+      "text-only": {
+        "style": "map-only/style.json",
+        "tilejson": {
+          "type": "overlay",
+          "bounds": [3.136597,50.729502,7.256470,53.657661]
+        }
       }
     },
     "data": {
       "nl-vector": {
+        "mbtiles": "tiles.mbtiles"
+      },
+      "nl-text-only": {
         "mbtiles": "tiles.mbtiles"
       }
     }
