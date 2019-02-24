@@ -3,7 +3,6 @@
       "paths": {
         "root": "",
         "fonts": "fonts",
-        "sprites": "sprites",
         "styles": "styles",
         "mbtiles": ""
       },
@@ -22,7 +21,7 @@
     },
     "styles": {
       "full": {
-        "style": "full-style.json",
+        "style": "full/style.json",
         "tilejson": {
           "type": "overlay",
           "bounds": [3.136597,50.729502,7.256470,53.657661]

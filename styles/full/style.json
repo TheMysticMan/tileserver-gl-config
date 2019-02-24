@@ -1,17 +1,17 @@
 {
     "version": 8,
-    "name": "OSM Liberty",
+    "name": "Full Style",
     "metadata": {
       "mapbox:type": "template"
     },
     "sources": {
       "openmaptiles": {
         "type": "vector",
-        "url": "http://maps.geo.edolimburg.nl/data/v3.json"
+        "url": "mbtiles://{vector-nl}"
       }
     },
-    "sprite": "http://maps.geo.edolimburg.nl/styles/full/sprite",
-    "glyphs": "http://maps.geo.edolimburg.nl/fonts/{fontstack}/{range}.pbf?key={key}",
+    "sprite": "{styleJsonFolder}/sprite",
+    "glyphs": "{fontstack}/{range}.pbf",  
     "layers": [
       {
         "id": "background",
