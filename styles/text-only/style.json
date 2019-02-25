@@ -39,7 +39,7 @@
       },
       "paint": {
         "text-color": "#5d60be",
-        "text-halo-color": "rgba(255,255,255,0.7)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
     },
@@ -65,7 +65,7 @@
       },
       "paint": {
         "text-color": "#5d60be",
-        "text-halo-color": "rgba(255,255,255,0.7)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
     },
@@ -375,7 +375,7 @@
       },
       "paint": {
         "text-color": "#633",
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1.2
       }
     },
@@ -416,7 +416,7 @@
       },
       "paint": {
         "text-color": "#333",
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1.2
       }
     },
@@ -475,7 +475,7 @@
       },
       "paint": {
         "text-color": "#333",
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1.2
       }
     },
@@ -536,7 +536,7 @@
       },
       "paint": {
         "text-color": "#333",
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1.2
       }
     },
@@ -576,7 +576,7 @@
       },
       "paint": {
         "text-color": "#633",
-        "text-halo-color": "rgba(255,255,255,0.7)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
     },
@@ -622,7 +622,7 @@
       "paint": {
         "text-color": "#334",
         "text-halo-blur": 1,
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
     },
@@ -668,7 +668,7 @@
       "paint": {
         "text-color": "#334",
         "text-halo-blur": 1,
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
     },
@@ -714,7 +714,7 @@
       "paint": {
         "text-color": "#334",
         "text-halo-blur": 1,
-        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
     },
@@ -744,7 +744,7 @@
       },
       "paint": {
         "text-color": "#633",
-        "text-halo-color": "rgba(255,255,255,0.7)",
+        "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
     },
