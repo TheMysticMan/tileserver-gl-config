@@ -106,7 +106,6 @@
       },
       "paint": {
         "text-color": "#666",
-        "text-halo-blur": 0.5,
         "text-halo-color": "#ffffff",
         "text-halo-width": 1
       }
@@ -153,7 +152,6 @@
       },
       "paint": {
         "text-color": "#666",
-        "text-halo-blur": 0.5,
         "text-halo-color": "#ffffff",
         "text-halo-width": 1
       }
@@ -200,7 +198,6 @@
       },
       "paint": {
         "text-color": "#666",
-        "text-halo-blur": 0.5,
         "text-halo-color": "#ffffff",
         "text-halo-width": 1
       }
@@ -239,7 +236,6 @@
       },
       "paint": {
         "text-color": "#4898ff",
-        "text-halo-blur": 0.5,
         "text-halo-color": "#ffffff",
         "text-halo-width": 1
       }
@@ -280,7 +276,6 @@
       },
       "paint": {
         "text-color": "#765",
-        "text-halo-blur": 0.5,
         "text-halo-width": 1
       }
     },
@@ -621,7 +616,6 @@
       },
       "paint": {
         "text-color": "#334",
-        "text-halo-blur": 1,
         "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
@@ -667,7 +661,6 @@
       },
       "paint": {
         "text-color": "#334",
-        "text-halo-blur": 1,
         "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
@@ -713,7 +706,6 @@
       },
       "paint": {
         "text-color": "#334",
-        "text-halo-blur": 1,
         "text-halo-color": "rgba(255,255,255,1)",
         "text-halo-width": 1
       }
