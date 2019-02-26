@@ -41,7 +41,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "mbtiles://{v3}"
+      "url": "mbtiles://{nl-vector}"
     }
   },
   "sprite": "{styleJsonFolder}/sprite",
