@@ -40,6 +40,13 @@
           "type": "overlay",
           "bounds": [3.136597,50.729502,7.256470,53.657661]
         }
+      },
+      "osm-bright": {
+        "style": "osm-bright/style-local.json",
+        "tilejson": {
+          "type": "overlay",
+          "bounds": [3.136597,50.729502,7.256470,53.657661]
+        }
       }
     },
     "data": {
