@@ -528,7 +528,7 @@
             ]
           ]
         },
-        "icon-allow-overlap": true,
+        "icon-allow-overlap": false,
         "icon-optional": false
       },
       "paint": {
